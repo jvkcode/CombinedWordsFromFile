@@ -1,0 +1,10 @@
+A compound is a lexeme (less precisely, a word) that consists of more than one stem.
+Compounding or composition is the word formation that creates compound lexemes.
+Word-compounding refers to the faculty and device of language to form new words 
+by combining or putting together old words. 
+In other words, compound, compounding or word-compounding occurs when a person 
+attaches two or more words together to make them one word.
+
+splitting compound words == decompounding of word
+lexicographic search tree
+lexicographic breadth-first search or Lex-BFS is a linear time algorithm
